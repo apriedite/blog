@@ -1,0 +1,10 @@
+Microsoft Windows [Version 10.0.18362.778]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\agate>git remote add origin https://github.com/apriedite/blog.git
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\agate>git push -u origin master
+'git' is not recognized as an internal or external command,
+operable program or batch file.
